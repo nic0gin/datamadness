@@ -48,10 +48,22 @@ def get_data(url):
     
     return [production_code, voice, chalkboard_gag, couch_gag, show_runner, written_by, directed_by]
 
-links = pd.read_csv('simpsons_fandom_wiki_links.csv')
+def scrape_data():
+    links = pd.read_csv('simpsons_fandom_wiki_links.csv')
 
-box_data = pd.DataFrame(columns=['production_code', 'voice','chalkboard_gag','couch_gag','show_runner', 'written_by', 'directed_by'])
-for link in tqdm(links['url']):
-    box_data.loc[len(box_data.index)] = get_data(link)
+    box_data = pd.DataFrame(columns=['production_code', 'voice','chalkboard_gag','couch_gag','show_runner', 'written_by', 'directed_by'])
+    for link in tqdm(links['url']):
+        box_data.loc[len(box_data.index)] = get_data(link)
 
-box_data.to_csv('box_data.csv', index=False)
+    box_data.to_csv('box_data.csv', index=False)
+
+def clean_data():
+    df = pd.read_csv('box_data.csv')
+    # ignore nan values and strip 'Couch Gag,' from the string in the column 'couch_gag'
+
+    df['couch_gag'] = df['couch_gag'].astype(str).map(lambda x:  x.lstrip('Couch Gag,') )
+    print(df.head(100))
+    df.to_csv('box_data.csv', index=False)
+    print('Done')
+
+clean_data()

@@ -1,0 +1,636 @@
+,guest_speaker,imdb_rating,imd_votes,number_of_episodes
+0,Marcia Wallace,"[7.8, 7.5, 8.2, 8.3, 8.4, 8.4, 8.2, 8.4, 8.2, 8.4, 8.1, 8.6, 8.3, 8.2, 8.1, 8.1, 8.0, 7.3, 7.6, 6.7, 7.1, 7.0, 7.3, 6.9, 6.7]","[1973.0, 1709.0, 1369.0, 1272.0, 1414.0, 1394.0, 1293.0, 1118.0, 1103.0, 1236.0, 1004.0, 1285.0, 1064.0, 995.0, 1019.0, 931.0, 909.0, 851.0, 829.0, 560.0, 757.0, 591.0, 671.0, 461.0, 408.0]",25
+1, Ms. Mellon,[7.8],[1973.0],1
+2,Ron Taylor,"[7.6, 8.3]","[1674.0, 1084.0]",2
+3,Albert Brooks,"[7.9, 7.5, 6.0, 9.2, 7.2, 7.3, 6.8]","[1638.0, 1578.0, 1051.0, 2439.0, 562.0, 505.0, 335.0]",7
+4,Sam McMurray,[7.4],[1511.0],1
+5,Kelsey Grammer,"[8.3, 8.2, 9.0, 8.3, 8.2, 7.2, 7.3, 7.1, 6.8, 7.2, 6.7, 5.8, 6.8]","[1716.0, 1233.0, 2010.0, 1142.0, 1100.0, 668.0, 628.0, 673.0, 571.0, 545.0, 468.0, 652.0, 385.0]",13
+6,Penny Marshall,[7.9],[1567.0],1
+7, Christopher Collins,[7.9],[1567.0],1
+8, June Foray,[7.9],[1567.0],1
+9, Paul Willson,[7.9],[1567.0],1
+10,Harvey Fierstein,[8.3],[1588.0],1
+11,Tony Bennett,"[7.5, 7.0]","[1381.0, 645.0]",2
+12, Tom Poston,[7.5],[1381.0],1
+13,Frank Welker,"[7.7, 8.1, 7.7, 9.2]","[1324.0, 1051.0, 913.0, 2256.0]",4
+14,Alex Rocco,"[8.1, 7.9]","[1402.0, 1079.0]",2
+15,Phil Hartman,"[7.8, 8.0, 7.9, 8.2, 8.0, 8.0, 8.0, 8.1, 8.3, 8.4, 8.4, 7.5, 8.0, 8.0, 8.5, 8.5, 8.2, 7.5, 8.0, 8.2, 8.8, 7.3, 7.5, 5.1, 8.1, 8.0, 7.8, 7.5]","[1340.0, 1329.0, 1194.0, 1291.0, 1179.0, 1176.0, 1153.0, 1176.0, 1209.0, 1308.0, 1143.0, 1014.0, 1060.0, 1060.0, 1353.0, 1223.0, 1003.0, 1038.0, 1016.0, 1103.0, 1393.0, 1006.0, 888.0, 1119.0, 1036.0, 957.0, 906.0, 899.0]",28
+16, God,[7.8],[1340.0],1
+17,Larry King,[8.2],[1392.0],1
+18, Akira,"[8.2, 6.5]","[1392.0, 425.0]",2
+19, the Master Chef,[8.2],[1392.0],1
+20, Toshiro,[8.2],[1392.0],1
+21,Jon Lovitz,"[8.8, 8.5, 8.1, 8.8, 7.5, 6.9, 6.7]","[1687.0, 1452.0, 1339.0, 1268.0, 683.0, 568.0, 489.0]",8
+22, Deborah Ludwig Davis,[8.8],[1687.0],1
+23, Moses,[8.0],[1329.0],1
+24,Danny DeVito,"[8.2, 8.2]","[1413.0, 1227.0]",2
+25,Tracey Ullman,[7.5],[1264.0],1
+26,Audrey Meadows,[7.6],[1243.0],1
+27, Phil Hartman,"[7.6, 8.7, 8.2, 8.8, 9.0, 8.0, 8.5, 6.0, 8.3, 8.3, 8.5, 8.1, 7.9]","[1243.0, 1446.0, 1240.0, 1595.0, 2028.0, 1132.0, 1274.0, 1051.0, 1142.0, 1190.0, 1288.0, 1039.0, 1079.0]",13
+28,Ringo Starr,[8.0],[1257.0],1
+29, Jon Lovitz,"[8.0, 6.0, 8.5, 7.2, 6.6]","[1257.0, 1051.0, 1223.0, 610.0, 372.0]",5
+30,Dustin Hoffman,[8.5],[1684.0],1
+31,Cloris Leachman,[8.4],[1379.0],1
+32, Daniel Stern,[8.4],[1379.0],1
+33,Michael Jackson,[8.6],[1798.0],1
+34,Lona Williams,[7.7],[1274.0],1
+35,Joe Mantegna,"[8.7, 8.0, 7.8, 8.0, 6.9, 7.7, 7.5, 6.6, 5.8]","[1446.0, 995.0, 998.0, 701.0, 577.0, 697.0, 754.0, 486.0, 445.0]",9
+36, Troy McClure,"[8.7, 7.8, 8.1, 7.8, 8.3, 7.7, 8.3, 7.7]","[1446.0, 1160.0, 1339.0, 1163.0, 1209.0, 1085.0, 1146.0, 954.0]",8
+37, Neil Patrick Harris,[8.7],[1446.0],1
+38, Marcia Wallace,"[8.7, 7.8, 8.2, 9.0, 8.7, 8.4, 8.0, 9.0, 8.2, 7.4, 7.7, 7.3, 6.9, 7.4, 7.1, 7.0, 7.2, 7.0, 6.7]","[1446.0, 1163.0, 1269.0, 2010.0, 1270.0, 1308.0, 1060.0, 1690.0, 1003.0, 1158.0, 876.0, 760.0, 730.0, 731.0, 593.0, 706.0, 519.0, 492.0, 468.0]",19
+39, Magic Johnson,[8.5],[1452.0],1
+40,Jackie Mason,"[7.7, 6.6, 6.7]","[1262.0, 576.0, 552.0]",3
+41,Aerosmith,[8.8],[1618.0],1
+42, Lionel Hutz,"[8.8, 7.7, 8.0, 8.3, 8.3, 7.5]","[1618.0, 1080.0, 1132.0, 1084.0, 1172.0, 1038.0]",6
+43,Sting,[8.5],[1365.0],1
+44,Roger Clemens,[8.6],[1637.0],1
+45, Ken Griffey,[8.6],[1637.0],1
+46, Jr.,"[8.6, 7.7]","[1637.0, 882.0]",2
+47, Ozzie Smith,[8.6],[1637.0],1
+48, Don Mattingly,[8.6],[1637.0],1
+49, Mike Scioscia,[8.6],[1637.0],1
+50,Steve Allen,[8.2],[1201.0],1
+51,Beverly D'Angelo,"[7.9, 6.1]","[1233.0, 585.0]",2
+52,Christopher Guest,[7.7],[1176.0],1
+53,Kimmy Robertson,[7.8],[1160.0],1
+54, Edna Krabappel,"[7.8, 7.7, 8.1, 8.3]","[1160.0, 1085.0, 1123.0, 1084.0]",4
+55, Joe Frazier,"[8.2, 6.7]","[1227.0, 554.0]",2
+56, Ms. Sinclair,[8.1],[1339.0],1
+57,Doris Grau,[7.8],[1194.0],1
+58, Bob Hope,[7.8],[1194.0],1
+59, Jo Ann Harris,[7.8],[1194.0],1
+60, Lona Williams,[7.8],[1194.0],1
+61,Tom Jones,[7.8],[1163.0],1
+62,Sara Gilbert,[8.2],[1240.0],1
+63, Pamela Reed,[8.2],[1240.0],1
+64,Adam West,"[8.8, 7.1]","[1595.0, 704.0]",2
+65,Elizabeth Taylor,[8.5],[1350.0],1
+66,Leonard Nimoy,"[9.0, 9.0]","[2028.0, 1793.0]",2
+67,Michael Carrington,[8.3],[1268.0],1
+68,Dr. Joyce Brothers,[9.0],[1827.0],1
+69,Brooke Shields,[8.1],[1122.0],1
+70,Barry White,[8.1],[1234.0],1
+71,David Crosby,[7.7],[1080.0],1
+72,Johnny Carson,[8.2],[1269.0],1
+73, Hugh Hefner,[8.2],[1269.0],1
+74, Bette Midler,[8.2],[1269.0],1
+75, Luke Perry,[8.2],[1269.0],1
+76, Barry White,[8.2],[1269.0],1
+77, Elizabeth Taylor,[8.2],[1269.0],1
+78, Red Hot Chili Peppers,[8.2],[1269.0],1
+79,George Harrison,[8.4],[1416.0],1
+80, David Crosby,[8.4],[1416.0],1
+81, The Be Sharps,[8.4],[1416.0],1
+82,Phil Hart-on-the-Stick Man,[8.7],[1437.0],1
+83,Pamela Reed,"[8.0, 6.9]","[1132.0, 644.0]",2
+84,James Brown,[7.7],[1085.0],1
+85, Brad Goodman,[7.7],[1085.0],1
+86,Ernest Borgnine,[8.7],[1270.0],1
+87, Michelle Pfeiffer,"[8.4, 6.0]","[1308.0, 1051.0]",2
+88, Werner Klemperer,[8.4],[1308.0],1
+89,Gerry Cooney,[8.5],[1274.0],1
+90, Robert Goulet,[8.5],[1274.0],1
+91,Sam Neill,[8.2],[1202.0],1
+92,Conan O'Brien,[8.1],[1123.0],1
+93,James Woods,[8.3],[1171.0],1
+94,Kathleen Turner,[8.2],[1187.0],1
+95,Buzz Aldrin,[8.8],[1505.0],1
+96, James Taylor,[8.8],[1505.0],1
+97,Winona Ryder,[8.1],[1156.0],1
+98, Sara Gilbert,[6.0],[1051.0],1
+99, Kelsey Grammer,"[6.0, 8.0, 7.0, 7.0, 6.9, 0.0]","[1051.0, 1023.0, 706.0, 580.0, 456.0, 0.0]",6
+100, Larry King,[8.3],[1142.0],1
+101, Henry Corden,[8.3],[1142.0],1
+102,James Earl Jones,[9.0],[1690.0],1
+103,Meryl Streep,[8.0],[1150.0],1
+104,Dennis Franz,[9.0],[1655.0],1
+105, Homer,[9.0],[1655.0],1
+106,Anne Bancroft,[7.8],[1100.0],1
+107, Ted Danson,[7.8],[1100.0],1
+108, Rhea Perlman,[7.8],[1100.0],1
+109, George Wendt,[7.8],[1100.0],1
+110,Patrick Stewart,[8.9],[1457.0],1
+111,Dick Cavett,[8.5],[1254.0],1
+112, Joe Mantegna,"[8.5, 8.7, 6.9, 8.6, 7.7, 7.1, 6.9, 6.3, 7.2, 6.9, 6.3]","[1254.0, 1330.0, 734.0, 1095.0, 716.0, 555.0, 535.0, 618.0, 780.0, 482.0, 426.0]",12
+113,Mel Brooks,[7.9],[1006.0],1
+114, Ballet Teacher,[7.9],[1006.0],1
+115, Maurice LaMarche,"[8.5, 7.0, 7.3, 7.1, 7.1, 6.9, 7.2, 6.4, 6.5, 5.8, 7.9, 0.0]","[1223.0, 569.0, 692.0, 762.0, 613.0, 482.0, 559.0, 597.0, 468.0, 652.0, 977.0, 0.0]",12
+116,Mandy Patinkin,[8.3],[1190.0],1
+117, Steve Allen,[8.3],[1084.0],1
+118,Tito Puente,"[9.1, 8.9]","[1619.0, 1497.0]",2
+119,Mickey Rooney,[8.3],[1172.0],1
+120,Joan Kenley,[8.3],[1088.0],1
+121,Paul McCartney,[8.5],[1288.0],1
+122, Linda McCartney,[8.5],[1288.0],1
+123,Paul Anka,[8.5],[1304.0],1
+124,Glenn Close,"[8.5, 7.3, 7.1, 7.3, 6.7]","[1226.0, 595.0, 613.0, 541.0, 416.0]",5
+125, Harry Morgan,[8.5],[1226.0],1
+126,R. Lee Ermey,[8.0],[1023.0],1
+127, Glenn Close,"[7.5, 6.2]","[1038.0, 330.0]",3
+128,Lawrence Tierney,[8.3],[1146.0],1
+129,Bill Oakley,[8.7],[1264.0],1
+130,Tom Kite,[7.7],[962.0],1
+131,Bob Newhart,[7.7],[954.0],1
+132,Donald Sutherland,[8.1],[1039.0],1
+133, Kirk Douglas,[8.0],[1016.0],1
+134, Alex Rocco,[8.0],[1016.0],1
+135, Jack Sheldon,[8.0],[1016.0],1
+136, Fat Tony,"[8.2, 8.2, 7.3, 7.1, 6.7]","[1103.0, 975.0, 809.0, 733.0, 482.0]",5
+137, MacArthur Parker,[8.2],[1103.0],1
+138,Peter Frampton,[8.0],[1095.0],1
+139, The Smashing Pumpkins,[8.0],[1095.0],1
+140,Christina Ricci,[8.3],[1119.0],1
+141,"Phil ""Brain on a Stick"" Hartman",[8.3],[1186.0],1
+142,Paul Winfield,"[8.0, 7.9]","[1085.0, 949.0]",2
+143, Michael Buffer,[8.0],[1085.0],1
+144,Rodney Dangerfield,[7.7],[1079.0],1
+145,Johnny Cash,[8.5],[1383.0],1
+146, David Duchovny,[9.0],[1793.0],1
+147, Gillian Anderson,[9.0],[1793.0],1
+148, Jack Lemmon,[7.8],[998.0],1
+149,John Waters,[8.9],[1666.0],1
+150, David Hyde Pierce,"[8.2, 7.1]","[1100.0, 673.0]",2
+151,Dave Thomas,[8.7],[1330.0],1
+152, Santa's Little Helper,[7.7],[913.0],1
+153,Bret Hart,[7.9],[967.0],1
+154,Sab Shimono,"[8.0, 6.6]","[973.0, 615.0]",2
+155, Gedde Watanabe,"[8.0, 7.9]","[973.0, 964.0]",2
+156, Karen Maruyama,[8.0],[973.0],1
+157, Tim Conway,[7.3],[1006.0],1
+158, Big Daddy,[7.3],[1006.0],1
+159,Willem Dafoe,"[7.8, 6.9]","[967.0, 456.0]",2
+160,Martin Sheen,[7.4],[1158.0],1
+161,Fyvush Finkel,[8.1],[980.0],1
+162, Monique Yates Jr,[8.1],[1019.0],1
+163,Joe Namath,[7.7],[925.0],1
+164, Roy Firestone,[7.7],[925.0],1
+165, Mike Judge,"[7.7, 5.1]","[925.0, 1119.0]",2
+166,Jan Hooks,"[7.7, 7.3, 7.1]","[905.0, 815.0, 747.0]",3
+167, Andrea Martin,[7.7],[905.0],1
+168,Stephen Jay Gould,[8.0],[978.0],1
+169,Alex Trebek,[7.6],[958.0],1
+170, George Harrison,[5.1],[1119.0],1
+171, Patrick Stewart,"[5.1, 6.3]","[1119.0, 410.0]",2
+172,Jim Varney,[7.7],[938.0],1
+173, James Earl Jones,[8.1],[1036.0],1
+174,Jay Leno,"[7.5, 6.7]","[878.0, 193.0]",2
+175, Janeane Garofalo,"[7.5, 6.2]","[878.0, 476.0]",2
+176, Steven Wright,[7.5],[878.0],1
+177,Helen Hunt,[7.6],[887.0],1
+178,Rod Steiger,[8.3],[1026.0],1
+179,U2,[8.5],[1108.0],1
+180, Ray Patterson,[8.5],[1108.0],1
+181,Brendan Fraser,[8.3],[962.0],1
+182,Lisa Kudrow,[7.6],[932.0],1
+183,William Daniels,[8.2],[988.0],1
+184,Robert Englund,[8.0],[1013.0],1
+185, Kathie Lee Gifford,[8.0],[1013.0],1
+186, Regis Philbin,[8.0],[1013.0],1
+187, Themselves,[8.0],[1013.0],1
+188,Alec Baldwin,"[7.3, 6.3]","[934.0, 618.0]",2
+189, Ron Howard,"[7.3, 7.3]","[934.0, 759.0]",2
+190, Brian Grazer,"[7.3, 6.9]","[934.0, 681.0]",2
+191,George Carlin,[7.6],[901.0],1
+192, Martin Mull,[7.6],[901.0],1
+193,Mark Hamill,[8.2],[975.0],1
+194, Leavelle,[8.2],[975.0],1
+195, Lost in Space,[8.2],[975.0],1
+196,The Moody Blues,[7.8],[928.0],1
+197,Cyndi Lauper,[7.7],[834.0],1
+198,Ed Begley,[7.7],[882.0],1
+199, Elton John,[7.3],[815.0],1
+200,Isabella Rossellini,[7.6],[831.0],1
+201,Jack LaLanne,[7.3],[779.0],1
+202,Michael McKean,[7.2],[789.0],1
+203,Stephen Hawking,"[7.3, 7.4, 7.0]","[804.0, 661.0, 569.0]",3
+204,George Takei,"[7.9, 6.5]","[964.0, 246.0]",2
+205, Denice Kumagai,[7.9],[964.0],1
+206, Sakatumi,[7.9],[964.0],1
+207,Mel Gibson,[7.3],[917.0],1
+208, Jack Burns,[7.3],[917.0],1
+209,Mark McGwire,[7.5],[776.0],1
+210,Ed Asner,[7.5],[797.0],1
+211,Lucy Lawless,[7.7],[876.0],1
+212, Frank Welker,"[7.7, 7.3, 7.4, 6.5, 7.8]","[876.0, 777.0, 803.0, 656.0, 712.0]",5
+213, Tom Arnold,[7.7],[876.0],1
+214, Dick Clark,[7.7],[876.0],1
+215,The B-52's,[7.6],[817.0],1
+216,Nancy O'Dell,[7.3],[759.0],1
+217, Garry Marshall,[7.1],[747.0],1
+218, Butch Patrick,[7.1],[747.0],1
+219,John Goodman,[],[],1
+220, Henry Winkler,[],[],1
+221, Jay North,[],[],1
+222, NRBQ,[],[],1
+223, Jan Hooks,[],[],1
+224,Tim Robbins,[7.3],[809.0],1
+225, Clarence Clemons,[7.3],[809.0],1
+226, himself,"[7.3, 7.1, 7.1, 7.1, 7.1, 7.1, 6.7]","[809.0, 621.0, 599.0, 762.0, 762.0, 762.0, 552.0]",7
+227,Elwood Edwards,[7.3],[715.0],1
+228,Don Cheadle,[6.9],[734.0],1
+229,Britney Spears,[7.3],[747.0],1
+230,Jim Cummings,[6.6],[822.0],1
+231, Bachman-Turner Overdrive,[6.6],[822.0],1
+232,Shawn Colvin,"[7.3, 7.3]","[777.0, 721.0]",2
+233,Betty White,[7.9],[887.0],1
+234,Diedrich Bader,[6.6],[805.0],1
+235, Robert Evans,[6.6],[805.0],1
+236, Joe C.,[6.6],[805.0],1
+237,Parker Posey,[7.3],[737.0],1
+238,Willie Nelson,[7.9],[955.0],1
+239,The Who,[7.4],[803.0],1
+240,Drew Barrymore,[7.1],[733.0],1
+241, Stephen King,[7.1],[733.0],1
+242, Amy Tan,[7.1],[733.0],1
+243,Joshua Jackson,[7.2],[731.0],1
+244,Leeza Gibbons,[7.2],[762.0],1
+245,Patrick McGoohan,[7.7],[782.0],1
+246,Edward Norton,"[7.3, 6.5]","[766.0, 405.0]",2
+247,Michael Keaton,[7.3],[760.0],1
+248, Charles Napier,"[7.3, 6.9]","[760.0, 535.0]",2
+249, Bruce Vilanch,[7.3],[760.0],1
+250, Robert Schimmel,[7.3],[760.0],1
+251,Tom Savini,[7.5],[761.0],1
+252,Andre Agassi,[6.9],[730.0],1
+253, Venus Williams,[6.9],[730.0],1
+254,'N Sync,[7.2],[833.0],1
+255,Stacy Keach,"[7.4, 6.8, 7.3, 6.7]","[731.0, 574.0, 434.0, 374.0]",5
+256,Kathy Griffin,[6.5],[691.0],1
+257,Frankie Muniz,[8.6],[1095.0],1
+258,Pierce Brosnan,[7.5],[824.0],1
+259, Matthew Perry,[7.5],[824.0],1
+260,Jane Kaczmarek,"[7.1, 6.9, 6.3, 6.9]","[674.0, 649.0, 606.0, 482.0]",4
+261,R.E.M.,[7.2],[698.0],1
+262,Julia Louis-Dreyfus,"[7.2, 7.2]","[651.0, 780.0]",2
+263, George Takei,[7.2],[651.0],1
+264,Paul Newman,[7.7],[716.0],1
+265, Judith Owen,[7.7],[716.0],1
+266,Richard Gere,[7.1],[692.0],1
+267, Delroy Lindo,[6.9],[649.0],1
+268,Ben Stiller,[7.0],[649.0],1
+269,Reese Witherspoon,[7.1],[621.0],1
+270,Dennis Weaver,[6.5],[656.0],1
+271,Olympia Dukakis,[6.5],[623.0],1
+272, Bill Saluga,[6.5],[623.0],1
+273,Phish,[7.7],[765.0],1
+274,Stan Lee,[7.7],[704.0],1
+275,James Lipton,"[6.9, 7.0]","[598.0, 486.0]",2
+276,Robert Pinsky,[7.2],[613.0],1
+277,Carmen Electra,[7.1],[642.0],1
+278, Frances Sternhagen,[7.1],[642.0],1
+279,Maggie Roswell,[7.6],[752.0],1
+280,Elvis Costello,[7.3],[713.0],1
+281, Mick Jagger,[7.3],[713.0],1
+282, Lenny Kravitz,[7.3],[713.0],1
+283, Tom Petty,[7.3],[713.0],1
+284, Keith Richards,[7.3],[713.0],1
+285, Brian Setzer,[7.3],[713.0],1
+286, Baha Men,[7.1],[704.0],1
+287, Manjula Nahasapeemapetilon,[7.1],[704.0],1
+288,David Lander,[6.8],[633.0],1
+289, Larry Holmes,[6.8],[633.0],1
+290,Little Richard,[7.1],[593.0],1
+291,Elliott Gould,[7.3],[598.0],1
+292,Lisa Leslie,[6.8],[598.0],1
+293,Judge Constance Harm,[6.6],[650.0],1
+294, Himself,"[6.6, 6.7, 6.5, 6.5]","[650.0, 671.0, 471.0, 471.0]",4
+295, themselves,[6.6],[650.0],1
+296,George Plimpton,[7.3],[628.0],1
+297,Helen Fielding,[7.1],[599.0],1
+298, Sara Sloane,[7.1],[599.0],1
+299,Eric Idle,"[7.1, 7.1, 7.3]","[555.0, 539.0, 617.0]",3
+300,Scott Thompson,[7.2],[649.0],1
+301," ""Weird Al"" Yankovic",[7.2],[649.0],1
+302,David Byrne,[7.0],[651.0],1
+303, Jonathan Taylor Thomas,[7.0],[651.0],1
+304, Andy Serkis,[7.0],[651.0],1
+305, John Kassir,[6.8],[574.0],1
+306,Steve Buscemi,"[6.9, 6.9]","[570.0, 620.0]",2
+307, Jane Kaczmarek,"[6.9, 6.9]","[570.0, 599.0]",2
+308,Jerry Lewis,[7.4],[738.0],1
+309, Dudley Herschbach,[7.4],[738.0],1
+310, Oscar De La Hoya,[7.4],[738.0],1
+311,Michael Moore,[7.0],[631.0],1
+312,Tony Blair,[7.1],[705.0],1
+313, Evan Mariott,[7.1],[705.0],1
+314, Jane Leeves,[7.1],[705.0],1
+315,Charles Napier,[7.2],[586.0],1
+316, Mr. T,[6.6],[576.0],1
+317,Tom Clancy,[7.3],[596.0],1
+318, Thomas Pynchon,[7.3],[596.0],1
+319, Mary-Kate and Ashley Olsen,[7.3],[596.0],1
+320,Nick Bakay,[7.3],[583.0],1
+321, Isabel Sanford,[7.3],[583.0],1
+322,Simon Cowell,[7.1],[589.0],1
+323, Jay Sherman,[6.9],[568.0],1
+324, Aristotle Amadopolis,[6.9],[568.0],1
+325,Brave Combo,[6.9],[560.0],1
+326,Sarah Michelle Gellar,[6.9],[599.0],1
+327, Matt Groening,"[6.7, 7.1]","[560.0, 698.0]",2
+328,Nichelle Nichols,[7.3],[600.0],1
+329,James Caan,[7.0],[566.0],1
+330,Kim Cattrall,[6.6],[562.0],1
+331, Terry W. Greene,[7.1],[539.0],1
+332,Tom Brady,[6.4],[582.0],1
+333, Michelle Kwan,[6.4],[582.0],1
+334, Warren Sapp,[6.4],[582.0],1
+335,50 Cent,[6.8],[607.0],1
+336,Gary Busey,[6.9],[572.0],1
+337, Judge Constance Harm,[6.9],[572.0],1
+338,Robert Wagner,[7.0],[586.0],1
+339, Madam Wu,[7.0],[586.0],1
+340,Frank Gehry,[6.9],[535.0],1
+341,Amy Poehler,"[7.3, 6.5]","[615.0, 415.0]",2
+342, John DiMaggio,"[7.3, 7.9]","[615.0, 977.0]",2
+343, Ray Magini,[7.4],[661.0],1
+344, Jacques,[7.2],[562.0],1
+345,Fantasia Barrino,[6.8],[554.0],1
+346,Baha Men,[7.3],[575.0],1
+347,Jason Bateman,[7.1],[546.0],1
+348,Liam Neeson,[7.2],[635.0],1
+349,Dennis Rodman,[7.3],[646.0],1
+350,Lily Tomlin,[6.7],[560.0],1
+351,Maria Grazia Cucinotta,[7.0],[706.0],1
+352,Michael York,"[6.7, 6.3]","[554.0, 233.0]",4
+353, William H. Macy,[6.7],[554.0],1
+354,Susan Sarandon,[7.0],[558.0],1
+355, Dave Thomas,[7.0],[558.0],1
+356, Randy Johnson,[7.0],[558.0],1
+357, Antonio Fargas,[7.0],[558.0],1
+358,Ricky Gervais,[6.5],[854.0],1
+359,Rob Reiner,[6.6],[577.0],1
+360,Richard Dean Anderson,[7.2],[677.0],1
+361,Frances McDormand,[7.2],[582.0],1
+362,Melanie Griffith,[7.1],[596.0],1
+363, Wallace Brady,[7.1],[596.0],1
+364,Mandy Moore,[6.6],[587.0],1
+365, Stacy Keach,[6.6],[587.0],1
+366, Joe Pantoliano,[7.5],[754.0],1
+367, Michael Imperioli,[7.5],[754.0],1
+368, Metallica,[7.5],[754.0],1
+369,The White Stripes,[6.7],[671.0],1
+370, Herself,[6.7],[671.0],1
+371,Dr. Phil McGraw,[7.1],[723.0],1
+372, Richard Lewis,[7.1],[723.0],1
+373, Fran Drescher,[7.1],[723.0],1
+374, Sir-Mix-A-Lot,[7.1],[723.0],1
+375, Orson Welles,[7.1],[723.0],1
+376,Kiefer Sutherland,"[6.9, 8.1, 7.2]","[656.0, 1179.0, 672.0]",3
+377,J. K. Simmons,"[6.8, 7.2]","[605.0, 610.0]",2
+378, Tom Wolfe,[6.8],[605.0],1
+379, Michael Chabon,[6.8],[605.0],1
+380,Elvis Stojko,[6.4],[624.0],1
+381,Natalie Portman,[7.0],[672.0],1
+382,Meg Ryan,[7.1],[644.0],1
+383, Peter Bogdanovich,[7.1],[644.0],1
+384, James Patterson,[7.1],[644.0],1
+385,Himself.,[7.3],[678.0],1
+386, Mary Lynn Rajskub,[8.1],[1179.0],1
+387,Ludacris,[7.3],[692.0],1
+388,Stephen Colbert,[6.7],[706.0],1
+389, Lionel Richie,[6.7],[706.0],1
+390,Plácido Domingo,[6.7],[684.0],1
+391, Julia,[6.7],[684.0],1
+392,Matt Dillon,[7.2],[637.0],1
+393, Julia Louis-Dreyfus,[6.9],[620.0],1
+394, Ted Nugent,[6.9],[620.0],1
+395,Maurice LaMarche,"[7.1, 6.6, 7.0, 6.9, 7.2]","[687.0, 615.0, 582.0, 411.0, 431.0]",5
+396,Jack Black,[7.1],[762.0],1
+397, John Mahoney,[7.1],[673.0],1
+398, Maria Grazia Cucinotta,[7.1],[673.0],1
+399, Keith Olbermann,[7.1],[673.0],1
+400,Tom Kenny,[8.2],[949.0],1
+401,Jon Stewart,[6.9],[633.0],1
+402,"""Weird Al"" Yankovic",[6.3],[1069.0],1
+403,Topher Grace,[7.7],[788.0],1
+404, Terry Gross,[7.7],[788.0],1
+405, Dixie Chicks,[6.1],[585.0],1
+406,Zooey Deschanel,"[6.9, 6.4, 6.5]","[601.0, 597.0, 471.0]",3
+407,Jim Jarmusch,[7.0],[585.0],1
+408, John C. Reilly,[7.0],[585.0],1
+409, Lance Armstrong,[7.1],[613.0],1
+410,Drew Carey,"[6.4, 0.0]","[538.0, 0.0]",2
+411, Robert Forster,[7.2],[780.0],1
+412,Denis Leary,[6.9],[681.0],1
+413,Joe Montana,[7.0],[638.0],1
+414,Shohreh Aghdashloo,[7.1],[728.0],1
+415,Marv Albert,[6.6],[615.0],1
+416, Mark Cuban,[6.6],[615.0],1
+417,Emily Blunt,[5.9],[706.0],1
+418, Fall Out Boy,[5.9],[706.0],1
+419,Colm Meaney,[6.3],[619.0],1
+420, Markéta Irglová,[6.3],[619.0],1
+421,Anne Hathaway,[7.2],[605.0],1
+422,Elliot Page,[7.1],[613.0],1
+423,Jodie Foster,[6.3],[591.0],1
+424,Seth Rogen,[7.1],[698.0],1
+425, Kevin Michael Richardson,"[7.1, 6.5, 4.5, 6.6]","[698.0, 470.0, 1215.0, 372.0]",4
+426,Chuck Liddell,[6.3],[562.0],1
+427,Jonah Hill,[6.7],[543.0],1
+428,Neve Campbell,[6.8],[529.0],1
+429,Peyton Manning,[7.2],[542.0],1
+430, Eli Manning,[7.2],[542.0],1
+431, Cooper Manning,[7.2],[542.0],1
+432, Tom Smothers,[7.2],[542.0],1
+433, Dick Smothers,[7.2],[542.0],1
+434, Kim Cattrall,[7.2],[542.0],1
+435, Huell Howser,[7.2],[542.0],1
+436, Jordan Nagai,[7.2],[542.0],1
+437,Mitch Albom,[6.8],[481.0],1
+438, Anne Hathaway,"[6.7, 6.4]","[552.0, 597.0]",2
+439, Eartha Kitt,[6.7],[552.0],1
+440,Chris Martin,[7.1],[532.0],1
+441, Mrs. Krabappel,[7.1],[532.0],1
+442,Bob Costas,[6.8],[525.0],1
+443,Wren T. Brown,[6.6],[496.0],1
+444,Sarah Silverman,[7.0],[554.0],1
+445, Angela Bassett,[7.0],[554.0],1
+446,Sacha Baron Cohen,[5.7],[675.0],1
+447, Yael Naim,[5.7],[675.0],1
+448,Kevin Michael Richardson,"[6.7, 6.8, 7.1, 7.0, 7.0, 6.6, 6.3, 6.9]","[482.0, 493.0, 470.0, 406.0, 440.0, 407.0, 377.0, 210.0]",10
+449,Eddie Izzard,[7.2],[519.0],1
+450, Prince Charles,[7.2],[519.0],1
+451,Ryan Seacrest,[6.6],[507.0],1
+452, Ellen DeGeneres,[6.6],[507.0],1
+453, Simon Cowell,[6.6],[507.0],1
+454,Bret McKenzie,[6.3],[691.0],1
+455, Jemaine Clement,[6.3],[691.0],1
+456, Lea Michele,[6.3],[691.0],1
+457, Cory Monteith,[6.3],[691.0],1
+458, Amber Riley,[6.3],[691.0],1
+459, Ira Glass,[6.3],[691.0],1
+460, Stephen Hawking,[6.3],[691.0],1
+461,Chris Hansen,[6.8],[506.0],1
+462, Muhammad Yunus,[6.8],[506.0],1
+463,Mike Scioscia,[6.8],[501.0],1
+464,Daniel Radcliffe,"[7.1, 6.4]","[680.0, 473.0]",2
+465, Hugh Laurie,[7.1],[680.0],1
+466,Danica Patrick,[6.4],[489.0],1
+467,Martha Stewart,[6.9],[564.0],1
+468,Fat Tony,[7.0],[528.0],1
+469, Jon Hamm,[7.0],[528.0],1
+470,Kristen Wiig,"[6.9, 7.0]","[520.0, 635.0]",2
+471, Alyson Hannigan,[6.9],[520.0],1
+472, Scott Thompson,[6.9],[520.0],1
+473, Michael Paul Chan,[7.0],[486.0],1
+474, Sheldon Leavitt,[7.0],[486.0],1
+475,Halle Berry,[7.2],[559.0],1
+476, Ricky Gervais,[7.2],[559.0],1
+477, DJ Kwanzaa,[7.2],[559.0],1
+478,Werner Herzog,[6.7],[489.0],1
+479,Cheech Marin,[6.1],[481.0],1
+480,Paul Rudd,[6.5],[470.0],1
+481,Martin Landau,[7.0],[491.0],1
+482, Ricky Jay,[7.0],[491.0],1
+483, David Copperfield,"[7.0, 6.8]","[491.0, 335.0]",2
+484,Kristen Schaal,[7.2],[483.0],1
+485,Ken Burns,[7.0],[492.0],1
+486, Joey Kramer,[7.0],[492.0],1
+487, Tom Colicchio,[7.2],[672.0],1
+488,Theodore Roosevelt,[7.0],[528.0],1
+489,Aron Ralston,[6.6],[654.0],1
+490, Rabbi Hyman Krustofsky,"[6.6, 6.2, 5.8]","[654.0, 476.0, 652.0]",3
+491,Jane Lynch,[6.7],[491.0],1
+492,Gordon Ramsay,[7.2],[562.0],1
+493, Mario Batali,[7.2],[562.0],1
+494, Tim Heidecker,[7.2],[562.0],1
+495,Neil Gaiman,[7.8],[712.0],1
+496, Robert Marlowe,[6.8],[493.0],1
+497,Joan Rivers,[6.2],[476.0],1
+498,Matt Groening,[8.2],[905.0],1
+499,Ted Nugent,[6.1],[549.0],1
+500,Armie Hammer,[7.0],[553.0],1
+501, The Tiger Lillies,[7.0],[553.0],1
+502,Jeremy Irons,[5.7],[562.0],1
+503,Michael Cera,[6.5],[490.0],1
+504, Adam Savage,[6.5],[490.0],1
+505, Jamie Hyneman,[6.5],[490.0],1
+506,Julian Assange,[7.0],[580.0],1
+507, Jackie Mason,[7.0],[580.0],2
+508,Shepard Fairey,[6.9],[425.0],1
+509, Kenny Scharf,[6.9],[425.0],1
+510, David Byrne,[7.3],[541.0],1
+511,Brent Spiner,[7.1],[493.0],1
+512,Treat Williams,[7.4],[568.0],1
+513, Rowan Priddis,[7.4],[568.0],1
+514,Bryan Cranston,"[6.9, 6.5]","[405.0, 425.0]",2
+515, Eric Idle,[6.9],[405.0],1
+516,Lady Gaga,[4.5],[1215.0],1
+517, Sarah Michelle Gellar,[6.4],[597.0],1
+518, Darcy,[6.4],[597.0],1
+519, Sarah Silverman,"[6.4, 0.0]","[597.0, 0.0]",2
+520,Jeff Gordon,[6.9],[460.0],1
+521,Jennifer Tilly,[6.7],[415.0],1
+522, Anika Noni Rose,[6.7],[415.0],1
+523,Steve Carell,[6.3],[426.0],1
+524, Alex Trebek,[6.3],[426.0],1
+525,Fred Armisen,[7.2],[493.0],1
+526, Carrie Brownstein,[7.2],[493.0],1
+527, Patton Oswalt,[7.2],[493.0],2
+528, Colin Meloy,[7.2],[493.0],1
+529, Lloyd,[6.9],[411.0],1
+530,Valerie Harper,[7.0],[408.0],1
+531,Rashida Jones,[6.6],[405.0],1
+532, Danny DeVito,[6.6],[405.0],1
+533, Benedict Cumberbatch,[6.5],[471.0],1
+534, Severus Snape,[6.5],[471.0],1
+535,Tina Fey,[7.0],[418.0],1
+536, Richard Dawkins,[7.0],[418.0],1
+537,Janet Reno,[7.1],[417.0],1
+538, Maggy Reno Hurchalla,[7.1],[417.0],1
+539, Wanda Sykes,[6.5],[425.0],1
+540,Sonny Rollins,[6.3],[410.0],1
+541,Justin Bieber,[6.3],[410.0],1
+542, Jane Krakowski,[6.3],[410.0],1
+543, Bill Hader,[6.3],[410.0],1
+544,Seth MacFarlane,[7.0],[396.0],1
+545,Rachel Maddow,[6.5],[482.0],1
+546,Elisabeth Moss,[7.1],[442.0],1
+547,Eva Longoria,[6.5],[468.0],1
+548,Judd Apatow,[7.6],[648.0],1
+549, Rob Halford,[7.6],[648.0],1
+550, Seth Rogen,[7.6],[648.0],1
+551, Channing Tatum,[7.6],[648.0],1
+552,Harlan Ellison,[7.1],[475.0],1
+553,Max von Sydow,[7.0],[414.0],1
+554,Zach Galifianakis,[7.0],[504.0],1
+555, Tavi Gevinson,[5.8],[445.0],1
+556, Edwin Moses,[6.7],[416.0],1
+557, Jeff Ross,[5.8],[652.0],1
+558, Don Hertzfeldt,[5.8],[652.0],1
+559,Nick Offerman,[6.9],[490.0],1
+560,John Ratzenberger,[7.3],[612.0],1
+561,Jane Fonda,[6.3],[442.0],1
+562,Billy West,[7.9],[977.0],1
+563, Professor Farnsworth,[7.9],[977.0],1
+564, Hedonismbot,[7.9],[977.0],1
+565, Hermes Conrad,[7.9],[977.0],1
+566, Leela,[7.9],[977.0],1
+567, Amy Wong,[7.9],[977.0],1
+568, Nibbler,[7.9],[977.0],1
+569, Linda van Schoonhoven,[7.9],[977.0],1
+570,Elon Musk,[5.8],[439.0],1
+571, Pharrell Williams,[6.3],[377.0],1
+572,Christopher Lloyd,[6.7],[360.0],1
+573,Richard Branson,[6.6],[372.0],1
+574, Yaya DaCosta,[6.6],[372.0],1
+575,Nathan Fielder,[6.9],[377.0],1
+576, R. Lee Ermey,[6.7],[374.0],1
+577,Carice van Houten,[6.2],[330.0],1
+578, Johnny Mathis,[6.8],[335.0],1
+579, Fit-Fat Tony,[6.8],[335.0],1
+580,Justin Roiland,[6.9],[335.0],1
+581, Morty Smith,[6.9],[335.0],1
+582,Lena Dunham,[5.9],[532.0],1
+583, Hannah Horvath,[5.9],[532.0],1
+584, Dr. Zilowitz,[5.9],[532.0],1
+585, Adam Sackler,[5.9],[532.0],1
+586, Zosia Mamet,[5.9],[532.0],1
+587,Alton Brown,[6.7],[395.0],1
+588, Bobby Moynihan,[6.7],[395.0],1
+589,Yo-Yo Ma,[7.2],[404.0],1
+590,Blake Anderson,[7.5],[462.0],1
+591, Nick Kroll,[7.5],[462.0],1
+592, Scrat,[6.8],[385.0],1
+593,Kristen Bell,[6.8],[335.0],1
+594,Sofia Vergara,[],[],1
+595,Utkarsh Ambudkar,[],[],1
+596,Kate McKinnon,[6.6],[293.0],1
+597, Bob Boilen,[6.6],[293.0],1
+598,Tom Scharpling,[7.3],[262.0],1
+599,Amy Schumer,[6.6],[104.0],1
+600, Pendleton Ward,[6.6],[104.0],1
+601,Allison Janney,[0.0],[0.0],1
+602,Rachel Dratch,[0.0],[0.0],1
+603, Michael Chiklis,[0.0],[0.0],1
+604, Doris Kearns Goodwin,[0.0],[0.0],1
+605, Jason Nash,[0.0],[0.0],1
+606, Donald Fagen,[0.0],[0.0],1
+607,Dan Rather,[],[],1
+608, Isabella,[],[],1
+609,Matt Leinart,[],[],1
+610,Natasha Lyonne,[],[],1
+611, Wayne Gretzky,[],[],1
+612, Theo Jansen,[],[],1
+613,Joyce Carol Oates,[],[],1
+614, Michael York,[],[],1
+615, Keegan-Michael Key,[],[],1
+616, Taraji P. Henson,[],[],1
+617, Snoop Dogg,[],[],1
+618, RZA,[],[],1
+619, Common,[],[],1
+620,Seth Green,[],[],1
+621,Michael Sheen,[],[],1
+622,Earl Mann,[],[],1
+623,Brian Posehn,[],[],1
+624, Rob Riggle,[],[],1
+625, Vanessa Bayer,[],[],1
+626, Adam Silver,[],[],1
+627,Jason Alexander,[],[],1
+628, Suze Orman,[],[],1
+629, Neil deGrasse Tyson,[],[],1
+630, Stan Lee,[],[],1
+631, Robert McKee,[],[],1
+632, Ken Jennings,[],[],1
+633,Jennifer Saunders,[],[],1
+634, Valerie Harper,[],[],1

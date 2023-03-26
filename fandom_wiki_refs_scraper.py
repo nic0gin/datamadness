@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-links_df_original = pd.read_csv('simpsons_fandom_wiki_links.csv')
+links_df_original = pd.read_csv('Datasets/scraped/simpsons_fandom_wiki_links.csv')
 links_df = links_df_original.sort_values(['season', 'episode'], ascending=[True, True])
 links_df.index = np.arange(1, len(links_df) + 1)
 

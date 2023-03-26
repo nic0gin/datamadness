@@ -30,110 +30,110 @@ def get_demographics_row(episode, season, epnr):
             row.append(episode['demographics']['ttrt fltr imdb users']['votes'])
             row.append(episode['demographics']['ttrt fltr imdb users']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr aged under 18' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr aged under 18']['votes'])
             row.append(episode['demographics']['ttrt fltr aged under 18']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr aged 18 29' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr aged 18 29']['votes'])
             row.append(episode['demographics']['ttrt fltr aged 18 29']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr aged 30 44' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr aged 30 44']['votes'])
             row.append(episode['demographics']['ttrt fltr aged 30 44']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr aged 45 plus' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr aged 45 plus']['votes'])
             row.append(episode['demographics']['ttrt fltr aged 45 plus']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr males' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr males']['votes'])
             row.append(episode['demographics']['ttrt fltr males']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr males aged under 18' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr males aged under 18']['votes'])
             row.append(episode['demographics']['ttrt fltr males aged under 18']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr males aged 18 29' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr males aged 18 29']['votes'])
             row.append(episode['demographics']['ttrt fltr males aged 18 29']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr males aged 30 44' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr males aged 30 44']['votes'])
             row.append(episode['demographics']['ttrt fltr males aged 30 44']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr males aged 45 plus' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr males aged 45 plus']['votes'])
             row.append(episode['demographics']['ttrt fltr males aged 45 plus']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr females' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr females']['votes'])
             row.append(episode['demographics']['ttrt fltr females']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr females aged under 18' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr females aged under 18']['votes'])
             row.append(episode['demographics']['ttrt fltr females aged under 18']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr females aged 18 29' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr females aged 18 29']['votes'])
             row.append(episode['demographics']['ttrt fltr females aged 18 29']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr females aged 30 44' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr females aged 30 44']['votes'])
             row.append(episode['demographics']['ttrt fltr females aged 30 44']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr females aged 45 plus' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr females aged 45 plus']['votes'])
             row.append(episode['demographics']['ttrt fltr females aged 45 plus']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr top 1000 voters' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr top 1000 voters']['votes'])
             row.append(episode['demographics']['ttrt fltr top 1000 voters']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr us users' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr us users']['votes'])
             row.append(episode['demographics']['ttrt fltr us users']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
         if 'ttrt fltr non us users' in episode['demographics'].keys():
             row.append(episode['demographics']['ttrt fltr non us users']['votes'])
             row.append(episode['demographics']['ttrt fltr non us users']['rating'])
         else:
-            row.append(np.nan)
-            row.append(np.nan)
+            row.append(0)
+            row.append(0)
 
     return row
 
@@ -175,14 +175,9 @@ def create_Dataset(series):
 
 
 
-#series = retrieve_Series()
-#series = add_episodes(series)
-#voting_demographics_data = create_Dataset(series)
+series = retrieve_Series()
+series = add_episodes(series)
+voting_demographics_data = create_Dataset(series)
 
-#voting_demographics_data.fillna(np.mean)
-#voting_demographics_data.to_csv('./voting_demographics.csv')
-
-data = pd.read_csv('./voting_demographics.csv')
-from sklearn.impute import SimpleImputer
-imp = SimpleImputer(missing_values=np.nan, strategy='mean')
-data = imp.fit(data)
+voting_demographics_data.fillna(np.mean)
+voting_demographics_data.to_csv('./voting_demographics.csv')

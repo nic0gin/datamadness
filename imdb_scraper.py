@@ -175,9 +175,14 @@ def create_Dataset(series):
 
 
 
-series = retrieve_Series()
-series = add_episodes(series)
-voting_demographics_data = create_Dataset(series)
+#series = retrieve_Series()
+#series = add_episodes(series)
+#voting_demographics_data = create_Dataset(series)
 
-voting_demographics_data.fillna(np.mean)
-voting_demographics_data.to_csv('./voting_demographics.csv')
+#voting_demographics_data.fillna(np.mean)
+#voting_demographics_data.to_csv('./voting_demographics.csv')
+
+data = pd.read_csv('./voting_demographics.csv')
+from sklearn.impute import SimpleImputer
+imp = SimpleImputer(missing_values=np.nan, strategy='mean')
+data = imp.fit(data)

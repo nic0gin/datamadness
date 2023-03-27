@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-links_df_original = pd.read_csv('Datasets/scraped/simpsons_fandom_wiki_links.csv')
+links_df_original = pd.read_csv('./Datasets/scraped/simpsons_fandom_wiki_links.csv')
 links_df = links_df_original.sort_values(['season', 'episode'], ascending=[True, True])
 links_df.index = np.arange(1, len(links_df) + 1)
 
@@ -73,4 +73,47 @@ def save_ref_counts():
 
     new_joined_df = joined_df.fillna(0)
     new_joined_df = new_joined_df.astype(int)
-    new_joined_df.to_csv('references.csv', index=False)
+    new_joined_df.to_csv('./Datasets/scraped/references.csv', index=False)
+
+
+def select_columns(data, columns):
+    return data.reindex(columns=columns)
+
+
+def add_column_from_existing(data, new_column_name, columns_names):
+    data[new_column_name] = pd.Series(dtype=float)
+    for cnt, name in enumerate(columns_names):
+        if cnt == 0:
+            data[new_column_name] = data.loc[:, name].fillna(value=0)
+        else:
+            data[new_column_name] += data.loc[:, name].fillna(value=0)
+    return data
+
+
+def clean_ref_counts():
+    references_df = pd.read_csv('./Datasets/scraped/references.csv')
+    references_df.index += 1
+
+    cult_refs_count_cols = ['Cultural references', 'Cultural References', 'Trivia/Cultural References',
+                            'Cultural Reference', 'Notes and references', 'Beatles references',
+                            'References to Toy Story in Condiments', 'Culture References']
+    self_refs_count_cols = ['Previous Episode References', 'Previous and Future Episode References',
+                            'Previous episode references', 'References to other episodes', 'In-show references',
+                            'Previous Episodes References', 'Call-Backs', 'Call-Backs to previous episodes',
+                            'Call-Backs to Episodes (In order of appearance in the episode)']
+    goofs_count_cols = ['Goofs', 'Trivia/Goofs', 'Goofs/Trivia', 'Goofs and Continuity Errors', 'Pants Goof',
+                        'Goofs/errors', 'Goof', "Goofs'"]
+    errors_count_cols = ['Errors', 'Continuity Errors', 'Factual Errors', 'Goofs and Continuity Errors', 'Goofs/errors']
+
+    new_cols_names = ['cult_refs_count', 'self_refs_count', 'goofs_count', 'errors_count']
+    feature_counts = (
+        references_df
+        .pipe(add_column_from_existing, new_cols_names[0], cult_refs_count_cols)
+        .pipe(add_column_from_existing, new_cols_names[1], self_refs_count_cols)
+        .pipe(add_column_from_existing, new_cols_names[2], goofs_count_cols)
+        .pipe(add_column_from_existing, new_cols_names[3], errors_count_cols)
+        .pipe(select_columns, new_cols_names)
+    )
+
+    feature_counts.index.names = ['episode_id']
+    feature_counts.to_csv('./Datasets/scraped/ref_counts_clean.csv', index=True)

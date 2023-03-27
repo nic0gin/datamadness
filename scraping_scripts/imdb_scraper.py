@@ -2,24 +2,27 @@ import pandas as pd
 import numpy as np
 # Accessing IMDB API
 import imdb
-ia = imdb.Cinemagoer()
-def retrieve_Series():
 
+ia = imdb.Cinemagoer()
+
+
+def retrieve_Series():
     series = ia.get_movie('0096697')
 
     return series
 
-def add_episodes(series):
 
+def add_episodes(series):
     ia.update(series, 'episodes')
 
     return series
 
-def add_demographics(episode):
 
+def add_demographics(episode):
     ia.update(episode, 'vote details')
 
     return episode
+
 
 def get_demographics_row(episode, season, epnr):
     row = []
@@ -137,8 +140,8 @@ def get_demographics_row(episode, season, epnr):
 
     return row
 
-def create_Dataset(series):
 
+def create_Dataset(series):
     df = pd.DataFrame(columns=['season', 'episode',
                                'total_counts', 'total_rating',
                                '<18_counts', '<18_rating',
@@ -173,11 +176,9 @@ def create_Dataset(series):
     return df
 
 
-
-
 series = retrieve_Series()
 series = add_episodes(series)
 voting_demographics_data = create_Dataset(series)
 
 voting_demographics_data.fillna(np.mean)
-voting_demographics_data.to_csv('./voting_demographics.csv')
+voting_demographics_data.to_csv('./Datasets/scraped/voting_demographics.csv')

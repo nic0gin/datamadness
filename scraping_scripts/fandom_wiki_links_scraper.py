@@ -44,4 +44,4 @@ def save_links_to_csv():
     links_df = [pd.DataFrame(links_dict[i]) for i in range(max_seasons)]
     links_per_episode_df = pd.concat(links_df)
     links_per_episode_df[['episode', 'season']] = links_per_episode_df[['episode', 'season']].astype(int)
-    links_per_episode_df.to_csv('simpsons_fandom_wiki_links.csv', index=False)
+    links_per_episode_df.to_csv('./Datasets/scraped/simpsons_fandom_wiki_links.csv', index=False)

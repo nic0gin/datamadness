@@ -1,7 +1,19 @@
 # datamadness: Ultimate Simpsons Guide
-Data Madness project for the KEN3450 Data Analysis course
+<p> Data Madness project for the KEN3450 Data Analysis course at Maastricht University</p>
 
-<p> Original dataset: https://data.world/data-society/the-simpsons-by-the-data
-<p> IMDB ratings: https://www.imdb.com/
-<p> Simpsons features per episode: https://simpsons.fandom.com/wiki/Simpsons_Wiki
-<p> Simpsons wikipidea: https://en.wikipedia.org/wiki/List_of_The_Simpsons_episodes_(seasons_1%E2%80%9320)
+## Data
+Dataset(s) and scraping sources used for this project: 
+<li> Original dataset: https://data.world/data-society/the-simpsons-by-the-data </li>
+<li> IMDB ratings: https://www.imdb.com/ </li>
+<li> Simpsons features per episode: https://simpsons.fandom.com/wiki/Simpsons_Wiki </li>
+
+## Scraper
+<p> To run scraper yourself use run_scraper.py in scraping_scripts folder. There are no restriction imposed by 
+scraped sources that we used </p>
+
+## Requirements
+<p> You can install all necessary packages using: </p>
+<ul>python -m pip install -r requirements.txt </ul>
+
+## Credits
+Jan Grapenthin, Michael Balzer, Nikola Prianikov

@@ -47,7 +47,7 @@ def get_data(url):
     return [production_code, voice, chalkboard_gag, couch_gag, show_runner, written_by, directed_by]
 
 
-def scrape_data():
+def scrape_box_data():
     links = pd.read_csv('./Datasets/scraped/simpsons_fandom_wiki_links.csv')
 
     box_data = pd.DataFrame(
@@ -58,7 +58,7 @@ def scrape_data():
     box_data.to_csv('./Datasets/scraped/box_data.csv', index=False)
 
 
-def clean_data():
+def clean_box_data():
     df = pd.read_csv('./Datasets/scraped/box_data.csv')
     # ignore nan values and strip 'Couch Gag,' from the string in the column 'couch_gag'
 
@@ -66,6 +66,3 @@ def clean_data():
     print(df.head(100))
     df.to_csv('./Datasets/scraped/box_data.csv', index=False)
     print('Done')
-
-
-clean_data()

@@ -176,9 +176,10 @@ def create_Dataset(series):
     return df
 
 
-series = retrieve_Series()
-series = add_episodes(series)
-voting_demographics_data = create_Dataset(series)
+def save_imdb_data():
+    series = retrieve_Series()
+    series = add_episodes(series)
+    voting_demographics_data = create_Dataset(series)
 
-voting_demographics_data.fillna(np.mean)
-voting_demographics_data.to_csv('./Datasets/scraped/voting_demographics.csv')
+    voting_demographics_data.fillna(np.mean)
+    voting_demographics_data.to_csv('./Datasets/scraped/voting_demographics.csv')
